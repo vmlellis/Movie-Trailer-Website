@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Batman Begins",
+    "storyline": "A rich dude in his bat suite",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=qHhHIbNuok8"
+  },
+  {
+    "title": "Avatar",
+    "storyline": "A marine on an alien planet",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Avatar-Teaser-Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+  {
+    "title": "The Matrix",
+    "storyline": "A software developer discovers the is not what it seems",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+  },
+  {
+    "title": "Schindler's List",
+    "storyline": "A story of a man who saves the lives of many in the midst of a regional power stuggle",
+    "poster_image_url": "http://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=JdRGC-w9syA"
+  },
+  {
+    "title": "Toy Story",
+    "storyline": "A story of a boy and his toys that come to life",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+  },
+  {
+    "title": "School of Rock",
+    "storyline": "Using rock music to learn",
+    "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
+    "trailer_youtube_url": "https://www.youtube.com/watch?v=3PsUJFEBC74"
+  }
+]
